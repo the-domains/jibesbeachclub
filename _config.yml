@@ -1,0 +1,49 @@
+typography_spectrum: 0.29164056899026036
+color:
+  brandStrength: 0.600228437455371
+  lightness: 0.183658191235736
+  saturation: 0.4609157214872539
+  rhythmicContrast: 0.20341700548306108
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+github: true
+opengraph:
+  type: 'https://www.facebook.com/Jibes-beach-Club-130654326982359/'
+  appId: Jibe's Beach Club
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f63df57-40ca-4f6d-a7a6-56ab9c33f11d.jpg
+layout_spectrum: 0.27656380576081574
+analytics:
+  google: UA-59745346-2
+author:
+  email: info@jibesbeachclub.com
+  url: 'http://www.jibesbeachclub'
+  name: Jibe's Beach Club
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa0f692-43de-4312-982a-166324e09580.jpg
+name: Jibes Beach Club
+navigation:
+  - name: The Original Water-sports center in Vietnam
+    url: 'http://www.jibesbeachclub.com/'
+    type: external
+  - name: 18th Vietnam Fun Cup coming in Feb 2017
+    url: 'https://www.youtube.com/watch?v=av_VkYLsDWw'
+    type: external
+  - name: 'Full Moon Beach, one of the first resort on the bay'
+    url: 'http://fullmoonbeach.com.vn/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9b98d7-d15c-4413-b7e9-3b2ea314d477.jpg
+title: where the wind blows
+description: since 2000
+purpose:
+  - type: external
+    url: www.jibesbeachclub.com
+    label: www.jibesbeachclub.com
+  - type: contact
+    url: 'mailto:info@jibesbeachclub.com'
+    label: Contact us
