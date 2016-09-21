@@ -1,16 +1,16 @@
 layout_spectrum: 0.9410426146350801
-typography_spectrum: 0.9729024393018335
+typography_spectrum: 0.6962293954566121
 color:
-  brandStrength: 0.6529332005884498
-  lightness: 0.4798765224404633
-  saturation: 0.3016692635137588
-  rhythmicContrast: 0.17469159024767578
+  brandStrength: 0.016582197276875377
+  lightness: 0.9674984824378043
+  saturation: 0.7324246522039175
+  rhythmicContrast: 0.832567807752639
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 github: true
 opengraph:
   type: 'https://www.facebook.com/Jibes-beach-Club-130654326982359/'
