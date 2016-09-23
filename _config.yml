@@ -1,4 +1,5 @@
-typography_spectrum: 0.6962293954566121
+layout_spectrum: 0.8590046735480428
+typography_spectrum: 0.7382195049431175
 color:
   brandStrength: 0.016582197276875377
   lightness: 0.9674984824378043
@@ -16,7 +17,6 @@ opengraph:
   appId: Jibe's Beach Club
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f63df57-40ca-4f6d-a7a6-56ab9c33f11d.jpg
-layout_spectrum: 0.9410426146350801
 analytics:
   google: UA-59745346-2
 author:
