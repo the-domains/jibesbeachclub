@@ -1,22 +1,22 @@
-typography_spectrum: 0.15058874688111246
+layout_spectrum: 0.46293857565998
+typography_spectrum: 0.12866292833839313
 color:
-  brandStrength: 0.016582197276875377
-  lightness: 0.9674984824378043
-  saturation: 0.7324246522039175
-  rhythmicContrast: 0.832567807752639
+  brandStrength: 0.4612190816485978
+  lightness: 0.028370642054660042
+  saturation: 0.07899292231482076
+  rhythmicContrast: 0.2970895478014124
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 github: true
 opengraph:
   type: 'https://www.facebook.com/Jibes-beach-Club-130654326982359/'
   appId: Jibe's Beach Club
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f63df57-40ca-4f6d-a7a6-56ab9c33f11d.jpg
-layout_spectrum: 0.21149633615277708
 analytics:
   google: UA-59745346-2
 author:
@@ -43,7 +43,7 @@ content: []
 description: since 2000
 purpose:
   - type: external
-    url: www.jibesbeachclub.com
+    url: 'http://www.jibesbeachclub.com'
     label: www.jibesbeachclub.com
   - type: contact
     url: 'mailto:info@jibesbeachclub.com'
